@@ -1,5 +1,7 @@
 parent
 child
 *.o
+*.txt
 lab1/parent
 lab1/child
+lab1/*.txt
