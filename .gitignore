@@ -1,0 +1,5 @@
+parent
+child
+*.o
+lab1/parent
+lab1/child
