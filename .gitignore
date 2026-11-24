@@ -5,3 +5,6 @@ child
 lab1/parent
 lab1/child
 lab1/*.txt
+prog1
+prog2
+*.so
